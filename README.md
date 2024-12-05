@@ -4,7 +4,6 @@
 Um Jogo de Adivinhação, jogo simples onde o computador escolhe um número aleatório entre 1 e 100 e o jogador tenta adivinhá-lo.
 
 *Funcionalidades:*
-
 Gerar um número aleatório: O programa gera um número aleatório entre 1 e 100.
 Pedir a entrada do usuário: O programa pede ao usuário para digitar um número.
 Comparar os números: O programa compara o número digitado pelo usuário com o número aleatório.
