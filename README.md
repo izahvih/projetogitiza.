@@ -1,4 +1,5 @@
 # projetogitiza.
+
 *Objetivo*
 Um Jogo de Adivinhação, jogo simples onde o computador escolhe um número aleatório entre 1 e 100 e o jogador tenta adivinhá-lo.
 
